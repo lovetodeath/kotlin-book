@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UnusedInMain">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chapter02/UnusedInMain.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
